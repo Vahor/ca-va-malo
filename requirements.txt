@@ -1,4 +1,8 @@
 pandas<2
+plotly
+notebook<7
+jupyterlab-rise
 import_ipynb
 jupyter
-plotly
+jupyter_contrib_nbextensions
+rise
