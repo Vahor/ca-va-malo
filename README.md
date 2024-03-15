@@ -14,4 +14,4 @@ cd project
 jupyter notebook
 ```
 
-Puis ouvrir [jupyter](http://localhost:8888)
+Puis ouvrir [jupyter](http://localhost:8888).
