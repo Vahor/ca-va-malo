@@ -1,3 +1,4 @@
 pandas<2
 import_ipynb
 jupyter
+plotly
