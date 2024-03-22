@@ -1,4 +1,5 @@
 pandas<2
+scikit-learn
 plotly
 notebook<7
 jupyterlab-rise
